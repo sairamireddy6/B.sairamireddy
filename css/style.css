@@ -4492,10 +4492,20 @@ div.exit {
   margin: -1.5rem 0 0 0;
 }
 
+/* Mystyle (sairamireddy) */
 .sairam{
   color: beige;
 }
 
 .sairam1{
   height: 320px;
+}
+
+@media screen and (max-width: 479px) {
+  /*-----------smartphones----------*/
+ 
+.sairamireddyh5{
+  font-size: 0.8em;
+}
+
 }
