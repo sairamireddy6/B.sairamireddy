@@ -2,8 +2,8 @@
   --font: "Inter", sans-serif;
   --size-quote: 95px;
   --dark-background: #03001e;
-  --yellow: #feac5e;
-  --purple: #c779d0;
+  --yellow: #F1FAEE;
+  --purple: #457B9D;
   --blue: #4bc0c8;
   --white: #ffffff;
   --violet: #9c6cebf3;
@@ -3593,7 +3593,7 @@ body.card-footer {
 
 body.background-contact-me {
   margin: 0;
-  background: linear-gradient(90deg, #feac5e, #c779d0, #4bc0c8);
+  background: linear-gradient(90deg, #F1FAEE, #457B9D, #4bc0c8);
   background-size: 400% 400%;
   animation: gradient 10s ease infinite;
   height: fit-content;
@@ -3602,7 +3602,7 @@ body.background-contact-me {
 div.background-main {
   margin: -0.1rem 0 0 0;
   padding: 0;
-  background: linear-gradient(90deg, #feac5e, #c779d0, #4bc0c8);
+  background: linear-gradient(90deg, #F1FAEE, #457B9D, #4bc0c8);
   background-size: 400% 400%;
   animation: gradient 10s ease infinite;
   height: fit-content;
@@ -3849,7 +3849,7 @@ p.steve-jobs {
 
 h3.second-part-quote {
   background-color: #f3ec78;
-  background: linear-gradient(90deg, #feac5e, #c779d0, #4bc0c8);
+  background: linear-gradient(90deg, #F1FAEE, #457B9D, #4bc0c8);
   background-size: 400% 400%;
   background-clip: text;
   -webkit-background-clip: text;
@@ -3878,7 +3878,7 @@ div.services-space {
 
 div.line-yellow {
   height: 5rem;
-  border-left: 2px solid #feac5e;
+  border-left: 2px solid #F1FAEE;
   opacity: 50%;
   padding: 0;
   display: flex;
@@ -3886,7 +3886,7 @@ div.line-yellow {
 
 div.line-purple {
   height: 5rem;
-  border-left: 2px solid #c779d0;
+  border-left: 2px solid #457B9D;
   opacity: 50%;
   padding: 0;
   display: flex;
@@ -4490,4 +4490,12 @@ div.exit {
   color: var(--white);
   font-size: 20px;
   margin: -1.5rem 0 0 0;
+}
+
+.sairam{
+  color: beige;
+}
+
+.sairam1{
+  height: 320px;
 }
